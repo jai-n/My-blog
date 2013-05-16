@@ -8,7 +8,7 @@ gem 'therubyracer'
 gem 'mysql2'
 gem 'rails-backbone'
 
-
+gem 'activerecord-postgresql-adapter'
 # Gems used only for assets and not required
 # in production environments by default.
 gem 'pg',:group=>:production
